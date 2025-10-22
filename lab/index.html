@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Intro to JavaScript Events</title>
+  <style>
+    /* Simple styles for hover effect */
+    #hover-box {
+      width: 150px;
+      height: 150px;
+      background-color: lightblue;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 10px 0;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h1>JavaScript Events Exercise</h1>
+
+  <!-- Click Event -->
+  <section>
+    <h2>Click Event</h2>
+    <button id="click-btn">Click Me!</button>
+    <p id="click-output"></p>
+  </section>
+
+  <!-- Input Event -->
+  <section>
+    <h2>Input Event</h2>
+    <input type="text" id="text-input" placeholder="Type something...">
+    <p>Your text: <span id="input-output"></span></p>
+  </section>
+
+  <!-- Hover Event -->
+  <section>
+    <h2>Hover Event</h2>
+    <div id="hover-box">Hover over me!</div>
+  </section>
+
+  <!-- Bonus Event Section -->
+  <section>
+    <h2>Bonus Challenge</h2>
+    <p>Add your own interactive element below</p>
+    <div id="bonus-container"></div>
+  </section>
+
+  <!-- Link JS file -->
+  <script src="exercise.js"></script>
+</body>
+</html>
