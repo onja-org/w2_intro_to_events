@@ -54,19 +54,19 @@ button.addEventListener("click", function(event) {
 
 You can use it to access things like:
 
-event.type → type of event (click, input, etc.)
+- event.type → type of event (click, input, etc.)
 pages
-event.target → the element that triggered the event
+- event.target → the element that triggered the event
 
 # 🌟 Summary
 
-Events make web pages interactive.
+- Events make web pages interactive.
 
-addEventListener() attaches an action to an event.
+- addEventListener() attaches an action to an event.
 
-Callback functions run when the event happens.
+- Callback functions run when the event happens.
 
-The event object gives details about what occurred.
+- The event object gives details about what occurred.
 
-Would you like me to make the lab README next — the one explaining what students should do in the /lab part?
+- Would you like me to make the lab README next — the one explaining what students should do in the /lab part?
 

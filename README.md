@@ -23,6 +23,7 @@ In this lab, you’ll learn how JavaScript makes web pages interactive by respon
 | **`/lab/index.html`** | HTML page to run your exercise |
 | **`/lab/exercise.md`** | Exercise instructions |
 | **`/lab/exercise.js`** | Starter JS file for the exercise |
+| **`/lab/solutions.js`** | Completed solutions (available in the `solutions` branch) |
 
 ---
 
@@ -31,14 +32,7 @@ In this lab, you’ll learn how JavaScript makes web pages interactive by respon
 1. Open **[`lesson/README.md`](lesson/README.md)** to review the concepts.  
 2. Open **[`lab/exercise.md`](lab/exercise.md)** to see your exercise tasks.  
 3. Edit **[`lab/exercise.js`](lab/exercise.js)** to complete the exercise.  
-4. Open **[`lab/index.html`](lab/index.html)** in a browser to test your code.
+4. Open **[`lab/index.html`](lab/index.html)** in your browser to test your code.  
+5. When finished, compare your work with the **[`solutions.js`](lab/solutions.js)** file in the `solutions` branch.
 
----
-
-## 💡 Tips
-
-- Use `console.log()` to inspect events and debug your code.  
-- Try each task step by step.  
-- Experiment with different types of events to understand how they behave.
-
-Happy coding! 🌱
+----
